@@ -1,0 +1,56 @@
+body{
+background: #154669;
+}
+
+.bg{
+     text-align: center;
+    background: #111D4A;
+    padding: 5px;
+    border-radius: 5px;
+   margin-top: -1pc;
+   
+}
+.Catalog{
+    background: white;
+ margin-right:  20px;
+  padding: 5px;
+}
+
+.Courses{
+     background: white;
+ margin-right:  20px;
+  padding: 5px;
+}
+.About{
+     background: white;
+ margin-right:  20px;
+  padding: 5px;
+}
+
+.login{
+     background: white;
+ margin-right:  20px;
+  padding: 5px;
+}
+
+.acad{
+     background: white;
+     margin-right:  20px;
+  padding: 5px;
+}
+.micx{
+    background: ;
+}
+
+.search{
+    margin-right: 10in;
+        margin-left:auto;
+        width: 50px;
+        border-radius: 400%;
+        display:block;
+         position: relative;
+
+    bottom: 50%;
+    left: 1.5rem;
+     
+}
