@@ -47,7 +47,7 @@ header {
   word-spacing: normal;
   color: white;
   position: relative;
-  left: 92rem;
+  left: 80rem;
   bottom: 1rem;
 
 }
@@ -95,7 +95,11 @@ h2{
 }
 h5{
   position: relative;
-  top: 12rem;
+  top: 13rem;
+  font-size: 16px;
+  font-weight: 400;
+  left: 2rem;
+  max-width: 405px;;
 }
 .signing{
     position: relative;
@@ -107,7 +111,18 @@ h5{
 p{
   font-weight: bold;
 }
+.Ace{
+  font-size: 18px;
+  width: 373px;
+  font-weight: 400;
+}
 
+.course-list{
+  font-weight: 700;
+  font-style: bold;
+  font-size: 20px;
+  width: 407px;
+}
 .courses {
   width: 1100px;
   margin: auto;
@@ -118,8 +133,8 @@ p{
 }
 hr{
     position: relative;
-    width: 21em;
-    right: 24em;
+    width: 23em;
+    right: 23em;
     background-color: black;
     height: 2px;
 }
@@ -133,7 +148,7 @@ hr{
 .search{
   position: relative;
   bottom: 26rem;
-  left: 38rem;
+  left: 27em;
 }
 
 .course-list {
@@ -177,7 +192,7 @@ background-color: #e60073;
       max-width: 700px;
       margin: auto;
       position: relative;
-      bottom: 30rem;
+      bottom: 35rem;
       left: 16rem;
     }
 
@@ -234,12 +249,12 @@ background-color: #e60073;
       font-size: 13px;
       color: #333;
       position: relative;
-      bottom: 19rem;
+      bottom: 23rem;
       left: 6rem;
   
     }
 
-  .info-section {
+  .section {
   position: relative;
   bottom: 3rem;
   background-color: #ffc700;
@@ -249,7 +264,7 @@ background-color: #e60073;
   font-family: 'Segoe UI', sans-serif;
 }
 
-.info-container {
+.container {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -258,19 +273,19 @@ background-color: #e60073;
   flex-wrap: wrap;
 }
 
-.info-text {
+.text {
   flex: 1 1 50%;
   max-width: 600px;
 }
 
-.info-text h2 {
+.text h2 {
   position: relative;
   bottom: 1rem;
   font-size: 2em;
   font-weight: 700;
 }
 
-.info-text p {
+.text p {
   font-weight: 400;
   font-size: 16px;
   text-align: justify;
@@ -292,7 +307,7 @@ background-color: #e60073;
   background-color: #111D4A;
 }
 
-.info-image {
+.image {
   position: relative;
   right: 5rem;
   display: block;
@@ -300,11 +315,11 @@ background-color: #e60073;
   
 }
 
-.info-image img {
+.image img {
   width: 346px;
   height: 296px;
 }
-.join-section{
+.section1{
   background-color: #3A86FF;
   width: 1685px;
   position: relative;
@@ -494,30 +509,28 @@ bottom: 28rem;
 
 }
 
-
-.endpage{
+.last{
   position: relative;
   top: 5rem;
-  left: 2rem;
-  width: 1292.5px ;
-}     
+  left: 0.5rem;
+  width: 1350px;
+}
 
 .Academix{
   position: relative;
-   top: 33rem;
-   right: 57rem;
+  top: 31rem;
+  right: 63.5rem;
 }
 
-.acad1{
+.Acad{
   font-weight: bold;
-  font-size: 24px;
+  font-size: 24PX;
   position: relative;
   color: black;
   bottom: 25rem;
   left: 70rem;
 }
-
-.mix1{
+.Mix{
   background-color: black;
   color: white;
   padding: 4px;
@@ -525,15 +538,27 @@ bottom: 28rem;
   border-radius: 5px;
 }
 
-.crmci {
-  
-     position: relative;
-   top: 33rem;
-   right: 57rem;
+.from{
+  position: relative;
+  top: 5rem;
+  color: black;
+  left: 6.7rem;
+  font-size: 14px;
+}
+.Powered{
+  position: relative;
+  left: 45rem;
+  top: 2.5rem;
+  width: 151px;
+  font-size: 14px;
+  text-align: center;
+  font-weight: 400;
 }
 
-.crmci h4{
-color: black;
-
+.All{
+  position: relative;
+  left: 40rem;
+  top: 2.5rem;
+  font-size: 14px;
+  font-weight: 400;
 }
-
