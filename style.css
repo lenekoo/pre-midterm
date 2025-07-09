@@ -550,7 +550,7 @@ bottom: 28rem;
 .Powered{
   position: relative;
   left: 45rem;
-  top: 2.5rem;
+  top: 1.5rem;
   width: 151px;
   font-size: 14px;
   text-align: center;
@@ -560,7 +560,7 @@ bottom: 28rem;
 .All{
   position: relative;
   left: 40rem;
-  top: 2.5rem;
+  top: .5rem;
   font-size: 14px;
   font-weight: 400;
 }
